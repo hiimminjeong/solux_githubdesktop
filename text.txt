@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 솔룩스 git 응용 세미나
+=======
+솔룩스 git 응용 세미나
+안녕하세요
+branch_2 변경사항입니다.
+>>>>>>> Stashed changes
